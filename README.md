@@ -26,3 +26,5 @@ The CEO of PyBer, a ride-sharing app, has asked me to analyze ride-sharing data 
 <br/>
 <img width="777" alt="PyBer multiline" src="https://user-images.githubusercontent.com/91852495/143722290-176f9212-ddab-4024-b2c6-1cd89767ab59.png">
 
+## Summary 
+Urban cities had the highest total amount of rides, total amount of drivers, and the highest total fare. Urban cities had the lowest average fare ride and average fare per driver. Rural cities had the lowest total amount of rides, total amount of drivers, and total fare. Rural cities had the highest average fare per ride and average fare per driver. I recommend adding drivers during peak season, which for all city types includes towards the end of February. I also recommend a small surge price increase during this time period. More drivers with a slight price increase will increase revenue during a time when utilization is already high. I recommend reducing fare prices during historic low usage times as well to increase utilization.

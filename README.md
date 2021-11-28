@@ -15,11 +15,11 @@ The CEO of PyBer, a ride-sharing app, has asked me to analyze ride-sharing data 
   -	 Rural cities had the highest average fare per driver. Urban cities had the lowest average fare per driver.
   -	Suburban cities remained in the middle of Rural and Urban cities for all categories.
 <br/>
-<img width="606" alt="PyBerDF" src="https://user-images.githubusercontent.com/91852495/143722282-8fe8182a-988c-4462-8164-fceda418f48c.png">
+<img width="598" alt="PyBerDF2" src="https://user-images.githubusercontent.com/91852495/143774078-32ac565c-6b26-4d1d-aa61-db85d5dc9cd4.png">
 
 
 ###	Total Fare by City Type:
-  -	The multiple-line graph shows that rural cities have a lower total fare compares to suburban or urban cities. In the beginning and mid-sections of January and the beginning and end of February, rural cities have higher total fares. The peak time period would be in April. 
+  -	The multiple-line graph shows that rural cities have a lower total fare compared to suburban or urban cities. In the beginning and mid-sections of January, and the beginning and end of February, rural cities have higher total fares. The peak time period would be in April. 
   -	Suburban cities have the highest total fares towards the end of February. Lowest total fares are in mid-April and beginning of January. 
   -	Urban total fares are highest at the end of February to beginning of March. Lowest total fares occur at the beginning of January and end of April.
   -	All city types have the highest total fares towards the end of February.
